@@ -1,2 +1,3 @@
 # Spring-RateControl
-A practical example of implementing rate limiting in Spring Boot applications to control the flow of requests
+
+This is a simple Spring Boot application that demonstrates the use of rate limiting on REST endpoints using a custom annotation and Google Guava's `RateLimiter`.
